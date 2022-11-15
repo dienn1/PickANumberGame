@@ -1,0 +1,54 @@
+C:\Users\sidie\anaconda3\python.exe "D:\UC Irvine\Independent Project\PickANumberGame\main.py" 
+1000000 GAMES IN 36.24010610580444 SECONDS
+=================
+PLAYER 0 stats:
+play distribution: {1: 0.00104, 2: 0.998416, 3: 0.000544}
+total reward: 1653085
+rounds won: 826659
+=================
+PLAYER 1 stats:
+play distribution: {1: 0.869179, 2: 0.036368, 3: 0.094453}
+total reward: 70381
+rounds won: 67678
+=================
+PLAYER 2 stats:
+play distribution: {1: 0.066557, 2: 0.022889, 3: 0.910554}
+total reward: 96121
+rounds won: 34570
+=================
+PLAYER 3 stats:
+play distribution: {1: 0.93156, 2: 0.030147, 3: 0.038293}
+total reward: 82441
+rounds won: 81720
+=================
+PLAYER 4 stats:
+play distribution: {1: 0.793274, 2: 0.049359, 3: 0.157367}
+total reward: 56902
+rounds won: 52412
+=================
+PLAYER 5 stats:
+play distribution: {1: 0.048627, 2: 0.023437, 3: 0.927936}
+total reward: 99395
+rounds won: 34778
+=================
+PLAYER 6 stats:
+play distribution: {1: 0.046779, 2: 0.023491, 3: 0.92973}
+total reward: 99343
+rounds won: 34635
+=================
+PLAYER 7 stats:
+play distribution: {1: 0.000784, 2: 0.998278, 3: 0.000938}
+total reward: 1653109
+rounds won: 826614
+=================
+PLAYER 8 stats:
+play distribution: {1: 0.0, 2: 0.0, 3: 1.0}
+total reward: 154209
+rounds won: 51403
+=================
+POLICY DISTRIBUTION {1: 0.3333333333333333, 2: 0.2222222222222222, 3: 0.4444444444444444}
+{1: 3, 2: 2, 3: 4}
+____________________________________________________
+
+
+Process finished with exit code 0

@@ -1,0 +1,258 @@
+1000000 GAMES IN 208.9920961856842 SECONDS
+=================
+PLAYER 0 stats:
+play distribution: {1: 0.979018, 2: 0.005088, 3: 0.015894}
+total reward: 535761
+rounds won: 531051
+=================
+PLAYER 1 stats:
+play distribution: {1: 0.038325, 2: 0.019353, 3: 0.942322}
+total reward: 278042
+rounds won: 98843
+=================
+PLAYER 2 stats:
+play distribution: {1: 0.958741, 2: 0.017542, 3: 0.023717}
+total reward: 534287
+rounds won: 524565
+=================
+PLAYER 3 stats:
+play distribution: {1: 0.963303, 2: 0.005926, 3: 0.030771}
+total reward: 533181
+rounds won: 523971
+=================
+PLAYER 4 stats:
+play distribution: {1: 0.009217, 2: 0.985708, 3: 0.005075}
+total reward: 692398
+rounds won: 347904
+=================
+PLAYER 5 stats:
+play distribution: {1: 0.98263, 2: 0.004598, 3: 0.012772}
+total reward: 537407
+rounds won: 533630
+=================
+PLAYER 6 stats:
+play distribution: {1: 0.965369, 2: 0.007888, 3: 0.026743}
+total reward: 534712
+rounds won: 526213
+=================
+PLAYER 7 stats:
+play distribution: {1: 0.958096, 2: 0.016906, 3: 0.024998}
+total reward: 532596
+rounds won: 522845
+=================
+PLAYER 8 stats:
+play distribution: {1: 0.008137, 2: 0.982279, 3: 0.009584}
+total reward: 692858
+rounds won: 347532
+=================
+PLAYER 9 stats:
+play distribution: {1: 0.95581, 2: 0.018702, 3: 0.025488}
+total reward: 532058
+rounds won: 521862
+=================
+PLAYER 10 stats:
+play distribution: {1: 0.011962, 2: 0.983006, 3: 0.005032}
+total reward: 692272
+rounds won: 348528
+=================
+PLAYER 11 stats:
+play distribution: {1: 0.055099, 2: 0.019148, 3: 0.925753}
+total reward: 257468
+rounds won: 94041
+=================
+PLAYER 12 stats:
+play distribution: {1: 0.021205, 2: 0.010591, 3: 0.968204}
+total reward: 298476
+rounds won: 102749
+=================
+PLAYER 13 stats:
+play distribution: {1: 0.07983, 2: 0.024376, 3: 0.895794}
+total reward: 256249
+rounds won: 97926
+=================
+PLAYER 14 stats:
+play distribution: {1: 0.043892, 2: 0.013689, 3: 0.942419}
+total reward: 275045
+rounds won: 98470
+=================
+PLAYER 15 stats:
+play distribution: {1: 0.957639, 2: 0.01576, 3: 0.026601}
+total reward: 533191
+rounds won: 523146
+=================
+PLAYER 16 stats:
+play distribution: {1: 0.956468, 2: 0.015299, 3: 0.028233}
+total reward: 532903
+rounds won: 522479
+=================
+PLAYER 17 stats:
+play distribution: {1: 0.956276, 2: 0.016119, 3: 0.027605}
+total reward: 532959
+rounds won: 522624
+=================
+PLAYER 18 stats:
+play distribution: {1: 0.965532, 2: 0.007124, 3: 0.027344}
+total reward: 533405
+rounds won: 524946
+=================
+PLAYER 19 stats:
+play distribution: {1: 0.963755, 2: 0.013154, 3: 0.023091}
+total reward: 533673
+rounds won: 525280
+=================
+PLAYER 20 stats:
+play distribution: {1: 0.009044, 2: 0.987646, 3: 0.00331}
+total reward: 692826
+rounds won: 348252
+=================
+PLAYER 21 stats:
+play distribution: {1: 0.018298, 2: 0.974269, 3: 0.007433}
+total reward: 692653
+rounds won: 350234
+=================
+PLAYER 22 stats:
+play distribution: {1: 0.005022, 2: 0.96189, 3: 0.033088}
+total reward: 692450
+rounds won: 344378
+=================
+PLAYER 23 stats:
+play distribution: {1: 0.099068, 2: 0.028463, 3: 0.872469}
+total reward: 248573
+rounds won: 98141
+=================
+PLAYER 24 stats:
+play distribution: {1: 0.008907, 2: 0.98121, 3: 0.009883}
+total reward: 693114
+rounds won: 347825
+=================
+PLAYER 25 stats:
+play distribution: {1: 0.005743, 2: 0.959208, 3: 0.035049}
+total reward: 691785
+rounds won: 344082
+=================
+PLAYER 26 stats:
+play distribution: {1: 0.056199, 2: 0.020592, 3: 0.923209}
+total reward: 256402
+rounds won: 93934
+=================
+PLAYER 27 stats:
+play distribution: {1: 0.008984, 2: 0.978519, 3: 0.012497}
+total reward: 691813
+rounds won: 346927
+=================
+PLAYER 28 stats:
+play distribution: {1: 0.080581, 2: 0.047083, 3: 0.872336}
+total reward: 245839
+rounds won: 94854
+=================
+PLAYER 29 stats:
+play distribution: {1: 0.056285, 2: 0.035486, 3: 0.908229}
+total reward: 250412
+rounds won: 92192
+=================
+PLAYER 30 stats:
+play distribution: {1: 0.953092, 2: 0.020015, 3: 0.026893}
+total reward: 532559
+rounds won: 521558
+=================
+PLAYER 31 stats:
+play distribution: {1: 0.021959, 2: 0.021264, 3: 0.956777}
+total reward: 290087
+rounds won: 100365
+=================
+PLAYER 32 stats:
+play distribution: {1: 0.043283, 2: 0.033097, 3: 0.92362}
+total reward: 267090
+rounds won: 96152
+=================
+PLAYER 33 stats:
+play distribution: {1: 0.010337, 2: 0.980433, 3: 0.00923}
+total reward: 693065
+rounds won: 348251
+=================
+PLAYER 34 stats:
+play distribution: {1: 0.164371, 2: 0.02793, 3: 0.807699}
+total reward: 232140
+rounds won: 101812
+=================
+PLAYER 35 stats:
+play distribution: {1: 0.007982, 2: 0.979814, 3: 0.012204}
+total reward: 692868
+rounds won: 347192
+=================
+PLAYER 36 stats:
+play distribution: {1: 0.081219, 2: 0.08871, 3: 0.830071}
+total reward: 238031
+rounds won: 93586
+=================
+PLAYER 37 stats:
+play distribution: {1: 0.024844, 2: 0.012329, 3: 0.962827}
+total reward: 294349
+rounds won: 101955
+=================
+PLAYER 38 stats:
+play distribution: {1: 0.040871, 2: 0.06879, 3: 0.890339}
+total reward: 249204
+rounds won: 90750
+=================
+PLAYER 39 stats:
+play distribution: {1: 0.094566, 2: 0.019704, 3: 0.88573}
+total reward: 254730
+rounds won: 99661
+=================
+PLAYER 40 stats:
+play distribution: {1: 0.147491, 2: 0.026663, 3: 0.825846}
+total reward: 229697
+rounds won: 98006
+=================
+PLAYER 41 stats:
+play distribution: {1: 0.959884, 2: 0.016678, 3: 0.023438}
+total reward: 533346
+rounds won: 524117
+=================
+PLAYER 42 stats:
+play distribution: {1: 0.060413, 2: 0.025709, 3: 0.913878}
+total reward: 249769
+rounds won: 92320
+=================
+PLAYER 43 stats:
+play distribution: {1: 0.009837, 2: 0.983995, 3: 0.006168}
+total reward: 692623
+rounds won: 348040
+=================
+PLAYER 44 stats:
+play distribution: {1: 0.036926, 2: 0.017498, 3: 0.945576}
+total reward: 280436
+rounds won: 99298
+=================
+PLAYER 45 stats:
+play distribution: {1: 0.95966, 2: 0.015586, 3: 0.024754}
+total reward: 533301
+rounds won: 523906
+=================
+PLAYER 46 stats:
+play distribution: {1: 0.01112, 2: 0.981005, 3: 0.007875}
+total reward: 692605
+rounds won: 348263
+=================
+PLAYER 47 stats:
+play distribution: {1: 0.009244, 2: 0.984555, 3: 0.006201}
+total reward: 692744
+rounds won: 348023
+=================
+PLAYER 48 stats:
+play distribution: {1: 0.008746, 2: 0.987458, 3: 0.003796}
+total reward: 692584
+rounds won: 347989
+=================
+PLAYER 49 stats:
+play distribution: {1: 0.008645, 2: 0.983284, 3: 0.008071}
+total reward: 692632
+rounds won: 347562
+=================
+PLAYER 50 stats:
+play distribution: {1: 0.0, 2: 0.0, 3: 1.0}
+total reward: 330489
+rounds won: 110163
+=================
+15 16 20

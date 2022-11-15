@@ -1,0 +1,105 @@
+C:\Users\sidie\anaconda3\python.exe "D:\UC Irvine\Independent Project\PickANumberGame\main.py" 
+5000000 GAMES IN 196.10853743553162 SECONDS
+=================
+PLAYER 0 stats:
+play distribution: {1: 0.0564534, 2: 0.0211306, 3: 0.922416}
+total reward: 236778
+rounds won: 83909
+=================
+PLAYER 1 stats:
+play distribution: {1: 0.1096172, 2: 0.022103, 3: 0.8682798}
+total reward: 212270
+rounds won: 81937
+=================
+PLAYER 2 stats:
+play distribution: {1: 0.0603878, 2: 0.0180534, 3: 0.9215588}
+total reward: 238942
+rounds won: 85148
+=================
+PLAYER 3 stats:
+play distribution: {1: 0.0001134, 2: 0.999693, 3: 0.0001936}
+total reward: 8616628
+rounds won: 4308317
+=================
+PLAYER 4 stats:
+play distribution: {1: 0.1438086, 2: 0.0243786, 3: 0.8318128}
+total reward: 199935
+rounds won: 81550
+=================
+PLAYER 5 stats:
+play distribution: {1: 0.98716, 2: 0.0055406, 3: 0.0072994}
+total reward: 513361
+rounds won: 512715
+=================
+PLAYER 6 stats:
+play distribution: {1: 0.0660036, 2: 0.0207192, 3: 0.9132772}
+total reward: 230494
+rounds won: 82872
+=================
+PLAYER 7 stats:
+play distribution: {1: 0.0001992, 2: 0.9995858, 3: 0.000215}
+total reward: 8616521
+rounds won: 4308321
+=================
+PLAYER 8 stats:
+play distribution: {1: 0.8975248, 2: 0.0080076, 3: 0.0944676}
+total reward: 381577
+rounds won: 362038
+=================
+POLICY DISTRIBUTION {1: 0.2222222222222222, 2: 0.2222222222222222, 3: 0.5555555555555556}
+{1: 2, 2: 2, 3: 5}
+____________________________________________________
+
+5000000 GAMES IN 197.06533551216125 SECONDS
+=================
+PLAYER 0 stats:
+play distribution: {1: 0.0453203, 2: 0.0185153, 3: 0.9361644}
+total reward: 359799
+rounds won: 125390
+=================
+PLAYER 1 stats:
+play distribution: {1: 0.0838353, 2: 0.0196798, 3: 0.8964849}
+total reward: 325841
+rounds won: 120618
+=================
+PLAYER 2 stats:
+play distribution: {1: 0.0484656, 2: 0.0162947, 3: 0.9352397}
+total reward: 363964
+rounds won: 127438
+=================
+PLAYER 3 stats:
+play distribution: {1: 5.67e-05, 2: 0.9998465, 3: 9.68e-05}
+total reward: 17698100
+rounds won: 8849053
+=================
+PLAYER 4 stats:
+play distribution: {1: 0.1097448, 2: 0.021853, 3: 0.8684022}
+total reward: 305432
+rounds won: 117795
+=================
+PLAYER 5 stats:
+play distribution: {1: 0.9911244, 2: 0.0038798, 3: 0.0049958}
+total reward: 883771
+rounds won: 883103
+=================
+PLAYER 6 stats:
+play distribution: {1: 0.0525565, 2: 0.018191, 3: 0.9292525}
+total reward: 353132
+rounds won: 124412
+=================
+PLAYER 7 stats:
+play distribution: {1: 9.96e-05, 2: 0.9997929, 3: 0.0001075}
+total reward: 17697993
+rounds won: 8849057
+=================
+PLAYER 8 stats:
+play distribution: {1: 0.9426888, 2: 0.0048896, 3: 0.0524216}
+total reward: 727033
+rounds won: 707472
+=================
+POLICY DISTRIBUTION {1: 0.2222222222222222, 2: 0.2222222222222222, 3: 0.5555555555555556}
+{1: 2, 2: 2, 3: 5}
+____________________________________________________
+
+
+Process finished with exit code 0
