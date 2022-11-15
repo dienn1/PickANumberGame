@@ -1,6 +1,7 @@
 import math
 import random
 from abc import ABC, abstractmethod
+from itertools import accumulate
 
 
 class AI(ABC):
@@ -33,31 +34,38 @@ class RandomAI(AI):
     def __init__(self, choice=range(1, 10), weights=None):
         super(RandomAI, self).__init__(choice)
         if weights is None:
-            self.weights = {c: 1 for c in self.choice}
+            self.weights =[1 for c in self.choice]
         else:
             self.set_weight(weights)
-        self.normalize_weights()
+        # self.normalize_weights()
 
     def set_weight(self, weights):
         if type(weights) == dict:
-            self.weights = {c: weights[c] for c in self.choice}
+            self.weights = [weights[c] for c in self.choice]
         else:
-            self.weights = {c: w for c, w in zip(self.choice, weights)}
-        self.normalize_weights()
+            self.weights = weights
+        # self.normalize_weights()
 
     def normalize_weights(self):
-        weight_sum = sum(self.weights.values())
-        for c in self.weights:
-            self.weights[c] /= weight_sum
+        weight_sum = sum(self.weights)
+        for i in range(len(self.weights)):
+            self.weights[i] /= weight_sum
 
     def get_move(self):
-        rand = random.random()
-        w_sum = 0
-        for c in self.choice:
-            w_sum += self.weights[c]
-            if w_sum >= rand:
-                self.move = c
-                return c
+        self.move = random.choices(self.choice, weights=self.weights)[0]
+        return self.move
+
+
+class TrueRandomAI(AI):
+    def __init__(self, choice=range(1, 10)):
+        super(TrueRandomAI, self).__init__(choice)
+        self.randomAI = RandomAI(self.choice)
+
+    def get_move(self):
+        rand_weights = [random.random() for __ in range(len(self.choice))]
+        self.randomAI.set_weight(rand_weights)
+        self.move = self.randomAI.get_move()
+        return self.move
 
 
 class UCB_AI(AI):

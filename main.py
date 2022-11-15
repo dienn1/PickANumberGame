@@ -1,6 +1,6 @@
 import math
 from PickANumberGame import PickANumberGame, start_game
-from AI import UCB_AI, RandomAI, AI
+from AI import UCB_AI, RandomAI, AI, TrueRandomAI
 import random
 
 random.seed(69)
@@ -8,8 +8,9 @@ random.seed(69)
 
 if __name__ == "__main__":
     choice = range(1, 4)
-    AI_count = 5
-    game_count = 1000000
+    AI_count = 1
+    randomAI_count = 10
+    game_count = 100000
     max_prior_strength = 100
     explore_param = math.sqrt(2)
 
@@ -23,9 +24,9 @@ if __name__ == "__main__":
     # weights = [0 for _ in range(len(choice))]
     # weights[-1] = 1
     # players.append(RandomAI(choice, weights=weights))
+    players.extend(TrueRandomAI(choice) for _ in range(randomAI_count))
     game = PickANumberGame(players, choice=choice)
 
     start_game(game, game_count)
-    start_game(game, game_count)
-
+    # start_game(game, game_count)
 
